@@ -6,7 +6,7 @@ var dow = 'Monday'
 switch (dow) {
 
     case 'Monday':
-        console.log("Monday should be optional");
+        console.log("Monday should be optional.");
         break;
 
     case 'Tuesday':
@@ -14,27 +14,27 @@ switch (dow) {
         break;
 
     case 'Wednesday':
-        console.log("Half way there");
+        console.log("Half way there.");
         break;
 
     case 'Thursday':
-        console.log('JS class, round two');
+        console.log('JS class, round two.');
         break;
 
     case 'Friday':
-        console.log('Smile its Friday');
+        console.log('Smile its Friday.');
         break;
 
     case 'Saturday':
-        console.log('Oh the possibilities');
+        console.log('Oh the possibilities.');
         break;
 
     case 'Sunday':
-        console.log('Family, food, relaxing & GoT');
+        console.log('Family, food, relaxing & GoT.');
         break;
 
     default:
-        console.log('Sorry, the input you entered does not exist');
+        console.log('Sorry, no go.');
         break
 
 
