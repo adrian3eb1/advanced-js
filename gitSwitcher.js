@@ -6,7 +6,7 @@ var dow = 'Monday'
 switch (dow) {
 
     case 'Monday':
-        console.log("Monday should be optional.");
+        console.log("Mondays should be optional.");
         break;
 
     case 'Tuesday':
